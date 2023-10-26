@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 python==3.10.13
 opencv-python==4.8.1.78
 keras==2.14.0
@@ -7,6 +8,16 @@ matplotlib-inline==0.1.6
 numpy==1.23.5]
 pandas==2.1.1
 tensorflow==2.14.0
+=======
+python==3.10.13
+cv==1.0.0
+keras==2.14.0
+matplotlib==..8.0
+matplotlib-inline==0.1.6
+numpy==1.23.5]
+pandas==2.1.1
+tensorflow==2.14.0
+>>>>>>> 290e541a534e7f8a7fd9d222d4f349203c2a590b
 =======
 python==3.10.13
 cv==1.0.0
